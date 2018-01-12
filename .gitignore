@@ -32,3 +32,15 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 .Rproj.user
+
+# ignore R files
+*.Rproj
+
+# ignore folders
+Data/
+Output/
+doc/
+figs/
+reports/
+
+
